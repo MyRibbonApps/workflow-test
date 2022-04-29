@@ -1,3 +1,3 @@
 const mul = () => {
-    console.log("TESTING")
+    console.log("DONE")
 }
