@@ -1,3 +1,3 @@
 const mul = () => {
-    console.log("Mul")
+    console.log("MulTIPLY CHANGES!!!")
 }
